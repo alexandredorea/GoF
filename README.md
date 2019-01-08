@@ -52,15 +52,15 @@ Um Design Pattern possui um formato ou elementos essesnciais, são eles:
 Estes Design Patterns também são classificados em três categorias: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Na figura abaixo podemos ver os patterns com sua classificação.
 
 
-### [Padrões de Criação]()
+### [Padrões de Criação](https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/)
 
 São Design Patterns que visam separar um sistema de como seus objetos são criados, compostos e representados. Eles aumentam a flexibilidade do sistema em termos do que, quem, como e quando criar o objeto, tentando criar objetos de maneira adequada à situação.
 
-- [ ] [**Abstract factory (Fábrica abstrata)**]() - Fornece uma interface para criar objetos relacionados ou dependentes sem especificar as classes concretas dos objetos - ou seja - fornece uma interface para criar objetos dinamicamente;
-- [ ] [**Builder (Construtor)**]() - Separa a construção de um objeto complexo de sua representação, para que o mesmo processo de construção possa criar diferentes representações - ou seja - para que seja possível criar diferentes representações daquele objeto;
-- [ ] [**Factory method (Método fábrica)**]() - centralizar a criação de um objeto de um tipo específico, escolhendo uma das várias implementações;
-- [x] [**Singleton**]() - restringe a instanciação de uma classe a um objeto - ou seja - que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela;
-- [ ] [**Prototype (Protótipo)**]() - São modelos ou templates para a criação de objetos - ou seja - usado quando o tipo de objeto a ser criado é determinado por uma instância prototipada, que é clonada para produzir novos objetos.
+- [ ] [**Abstract factory (Fábrica abstrata)**]()
+- [ ] [**Builder (Construtor)**]()
+- [ ] [**Factory method (Método fábrica)**]()
+- [x] [**Singleton**](https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/Object/5.%20Singleton)
+- [ ] [**Prototype (Protótipo)**]()
 
 
 ### [Padrões Estruturais]()
