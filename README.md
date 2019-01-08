@@ -51,10 +51,16 @@ Um Design Pattern possui um formato ou elementos essesnciais, são eles:
 
 Estes Design Patterns também são classificados em três categorias: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Na figura abaixo podemos ver os patterns com sua classificação.
 
+![Classificação do GoF][Classificacao]
+
+[Classificacao]: <https://github.com/alexandredorea/GoF/blob/master/doc/img/Patterns/01.%20Structure.jpg>
+
 
 ### [Padrões de Criação](https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/)
 
 São Design Patterns que visam separar um sistema de como seus objetos são criados, compostos e representados. Eles aumentam a flexibilidade do sistema em termos do que, quem, como e quando criar o objeto, tentando criar objetos de maneira adequada à situação.
+
+
 
 - [ ] [**Abstract factory (Fábrica abstrata)**]()
 - [ ] [**Builder (Construtor)**]()
