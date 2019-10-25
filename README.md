@@ -35,7 +35,7 @@ A tabela a seguir permite visualizar a classificação dos padrões de projeto, 
 		</tr>
 		<tr> 
 			<th colspan="2">&nbsp;</th>
-			<th align="center">Criação</th>
+			<th align="center"><a href="https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/">Criação</a></th>
 			<th align="center">Estrutura</th>
 			<th align="center">Comportamento</th>
 		</tr>
@@ -67,7 +67,7 @@ A tabela a seguir permite visualizar a classificação dos padrões de projeto, 
 			<td><a href="#">Iterator</a></td>
 		</tr>
 		<tr>
-			<td><a href="#">Singleton</a></td>
+			<td><a href="https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/Object/5.%20Singleton">Singleton</a></td>
 			<td><a href="#">Decorator</a></td>
 			<td>Mediator</a></td>
 		</tr>
