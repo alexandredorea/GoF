@@ -36,65 +36,65 @@ A tabela a seguir permite visualizar a classificação dos padrões de projeto, 
 		<tr> 
 			<th colspan="2">&nbsp;</th>
 			<th align="center"><a href="https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/">Criação</a></th>
-			<th align="center">Estrutura</th>
-			<th align="center">Comportamento</th>
+			<th align="center"><a href="#">Estrutura</a></th>
+			<th align="center"><a href="#">Comportamento</a></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr> 
 			<th rowspan="11" align="center">Escopo</th>
 			<th align="center">Classe</th>
-			<td><a href="#">Factory Method</a></td>
-			<td><a href="#">Class Adapter</a></td>
+			<td>Factory Method</td>
+			<td>Class Adapter</td>
 			<td>Interpreter <br>
 				Template Method
 			</td>
 		</tr>
 		<tr>
 			<th rowspan="9" align="center">Objetos</th>
-			<td><a href="#">Abstract Factory</a></td>
-			<td><a href="#">Object Adapter</a></td>
-			<td><a href="#">Chain of Reposponsability</a></td>
+			<td>Abstract Factory</td>
+			<td>Object Adapter</td>
+			<td>Chain of Reposponsability</td>
 		</tr>
 		<tr>
-			<td><a href="#">Builder</a></td>
-			<td><a href="#">Bridge</a></td>
-			<td><a href="#">Command</a></td>
+			<td>Builder</td>
+			<td>Bridge</td>
+			<td>Command</td>
 		</tr>
 		<tr>
-			<td><a href="#">Prototype</a></td>
-			<td><a href="#">Composite</a></td>
-			<td><a href="#">Iterator</a></td>
+			<td>Prototype</td>
+			<td>Composite</td>
+			<td>Iterator</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/alexandredorea/GoF/tree/master/src/App/1.%20Pattern%20Creational/Object/5.%20Singleton">Singleton</a></td>
-			<td><a href="#">Decorator</a></td>
-			<td>Mediator</a></td>
+			<td>Singleton</td>
+			<td>Decorator</td>
+			<td>Mediator</td>
 		</tr>
 		<tr>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">Facede</a></td>
-			<td><a href="#">Memento</a></td>
+			<td>&nbsp;</td>
+			<td>Facede</td>
+			<td>Memento</td>
 		</tr>
 		<tr>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">Flyweight</a></td>
-			<td><a href="#">Observer</a></td>
+			<td>&nbsp;</td>
+			<td>Flyweight</td>
+			<td>Observer</td>
 		</tr>
 		<tr>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">Proxy</a></td>
-			<td><a href="#">State</a></td>
+			<td>&nbsp;</td>
+			<td>Proxy</td>
+			<td>State</td>
 		</tr>
 		<tr>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">Strategy</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Strategy</td>
 		</tr>
 		<tr>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">&nbsp;</a></td>
-			<td><a href="#">Visitor</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Visitor</td>
 		</tr>
 	</tbody>
 </table>
